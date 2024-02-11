@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mistaburger
 - 👀 I’m interested in game devlopment under Unreal Engine 5! 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me : maitre.pizza1@gmail.com
 
 <!---
